@@ -3,3 +3,9 @@ Grocery List
 1. Milk
 2. Bread
 3. Eggs
+
+Drinks
+-----------
+1. Beer
+2. Wine
+3. Tequila
